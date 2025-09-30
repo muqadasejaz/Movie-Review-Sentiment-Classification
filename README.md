@@ -124,6 +124,13 @@ Predicted Sentiment: Positive
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🧑‍🎓 Semester Assignment – Deep Learning Course(Spring 2024)
+
+This was my semester assignment for the Deep Learning course.
+In this assignment, I implemented and submitted a project on sentiment classification using the IMDB dataset.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 👤 Author
 
 Muqadas Ejaz
